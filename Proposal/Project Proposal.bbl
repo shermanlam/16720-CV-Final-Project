@@ -1,0 +1,29 @@
+\begin{thebibliography}{1}
+
+\bibitem{davison2003real}
+Andrew~J Davison.
+\newblock Real-time simultaneous localisation and mapping with a single camera.
+\newblock In {\em Computer Vision, 2003. Proceedings. Ninth IEEE International
+  Conference on}, pages 1403--1410. IEEE, 2003.
+
+\bibitem{klein2007parallel}
+Georg Klein and David Murray.
+\newblock Parallel tracking and mapping for small ar workspaces.
+\newblock In {\em Mixed and Augmented Reality, 2007. ISMAR 2007. 6th IEEE and
+  ACM International Symposium on}, pages 225--234. IEEE, 2007.
+
+\bibitem{newcombe2010live}
+Richard~A Newcombe and Andrew~J Davison.
+\newblock Live dense reconstruction with a single moving camera.
+\newblock In {\em Computer Vision and Pattern Recognition (CVPR), 2010 IEEE
+  Conference on}, pages 1498--1505. IEEE, 2010.
+
+\bibitem{pollefeys2008detailed}
+Marc Pollefeys, David Nist{\'e}r, J-M Frahm, Amir Akbarzadeh, Philippos
+  Mordohai, Brian Clipp, Chris Engels, David Gallup, S-J Kim, Paul Merrell,
+  et~al.
+\newblock Detailed real-time urban 3d reconstruction from video.
+\newblock {\em International Journal of Computer Vision}, 78(2-3):143--167,
+  2008.
+
+\end{thebibliography}

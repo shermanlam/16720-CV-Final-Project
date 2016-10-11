@@ -1,0 +1,67 @@
+  \documentclass[11pt]{article}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{setspace}
+\usepackage[top=1in, bottom=1in, left=1.25in, right=1.25in]{geometry}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{bm}
+\usepackage{natbib}
+
+\setlength{\parindent}{0pt} 	% remove the silly paragraph indents
+
+% Sample figure
+%\begin{figure}[h!]
+%\centering
+%\includegraphics[width=0.5\textwidth]{board.jpg}
+%\caption{The latest number entered on the keypad is displayed on the bottom display. The second latest number is displayed on the top.}
+%\label{fig:board}
+%\end{figure} 
+
+
+\begin{document}
+
+
+
+% ---------------------------------------
+% Name section
+% ---------------------------------------
+\begin{flushleft}
+16720 CV\\
+\today
+\end{flushleft}
+
+
+% ---------------------------------------
+% Title
+% ---------------------------------------
+\begin{center}
+\begin{Large}
+\textbf{3D Scene Reconstruction from Single Moving Camera}
+\end{Large}
+\end{center}
+
+
+%---------------------------------------
+% Include individual section files
+%---------------------------------------
+
+\input{overview}
+\input{personnel}
+\input{technology}
+\input{timeline}
+
+
+%---------------------------------------
+% Bibliography
+%---------------------------------------
+\clearpage
+\bibliographystyle{plain}
+\bibliography{cv_references}
+
+
+
+\end{document}
+
