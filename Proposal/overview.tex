@@ -1,7 +1,6 @@
 \section{Project Overview}
 
-\citep{davison2003real}
-\citep{klein2007parallel}
-\citep{newcombe2010live}
-\citep{pollefeys2008detailed}
+3D scene reconstruction is useful in robotics for understanding a robot's environment can aid in navigation through this environment. One typical approach is to use simultaneous localization and mapping (SLAM) to create a map from laser scanners, inertial measurement units, and GPS. However, these devices require specialized hardware to interface and control. \\
+
+The goal of this project is to reconstruct 3D scene using video from a standard smart phone camera. Newcombe and Davison present an algorithm that efficiently does by tracking keypoints in sequential frames of the video, predicting camera poses using structure from motion (SFM), and correcting these camera poses using optical flow. Using these poses, it fits a 3D model of the world to sequential frames of the video \citep{newcombe2010live}. This builds upon the work of \citep{davison2003real}, \citep{klein2007parallel}, and \citep{pollefeys2008detailed}.
 
