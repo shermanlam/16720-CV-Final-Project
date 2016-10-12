@@ -1,7 +1,12 @@
 16720 CV Final Project
 ==================
 
-Structure from Motion
+#TODO List
+## Project Proposal
+- Finish writing overview
+- Write timeline
+- Read main paper ("Live Dense Reconstruction with a Single Moving Camera") in detail.
+- Skim other papers for useful information
 
 
 
