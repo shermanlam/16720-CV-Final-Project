@@ -6,11 +6,37 @@ Andrew~J Davison.
 \newblock In {\em Computer Vision, 2003. Proceedings. Ninth IEEE International
   Conference on}, pages 1403--1410. IEEE, 2003.
 
+\bibitem{geiger2011stereoscan}
+Andreas Geiger, Julius Ziegler, and Christoph Stiller.
+\newblock Stereoscan: Dense 3d reconstruction in real-time.
+\newblock In {\em Intelligent Vehicles Symposium (IV), 2011 IEEE}, pages
+  963--968. IEEE, 2011.
+
 \bibitem{klein2007parallel}
 Georg Klein and David Murray.
 \newblock Parallel tracking and mapping for small ar workspaces.
 \newblock In {\em Mixed and Augmented Reality, 2007. ISMAR 2007. 6th IEEE and
   ACM International Symposium on}, pages 225--234. IEEE, 2007.
+
+\bibitem{kuhl2006monocular}
+Annika Kuhl, Christian W{\"o}hler, Lars Kr{\"u}ger, Pablo d’Angelo, and
+  Horst-Michael Gro{\ss}.
+\newblock Monocular 3d scene reconstruction at absolute scales by combination
+  of geometric and real-aperture methods.
+\newblock In {\em Joint Pattern Recognition Symposium}, pages 607--616.
+  Springer, 2006.
+
+\bibitem{magree2014monocular}
+Daniel Magree, John~G Mooney, and Eric~N Johnson.
+\newblock Monocular visual mapping for obstacle avoidance on uavs.
+\newblock {\em Journal of Intelligent \& Robotic Systems}, 74(1-2):17--26,
+  2014.
+
+\bibitem{mclauchlan2000batch}
+Philip~F McLauchlan.
+\newblock A batch/recursive algorithm for 3d scene reconstruction.
+\newblock In {\em Computer Vision and Pattern Recognition, 2000. Proceedings.
+  IEEE Conference on}, volume~2, pages 738--743. IEEE, 2000.
 
 \bibitem{newcombe2010live}
 Richard~A Newcombe and Andrew~J Davison.
