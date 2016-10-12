@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.20)  11 OCT 2016 22:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.8.20)  12 OCT 2016 11:32
 entering extended mode
 **"./Project Proposal.tex"
 ("Project Proposal.tex"
@@ -299,15 +299,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-) (technology.tex
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+) (timeline.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-) (timeline.tex) [1
+) [1
 
-{C:/Users/sherman1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Projec
-t Proposal.bbl"
+{C:/Users/sherman1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("Project Proposal.bbl"
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -315,18 +320,18 @@ Missing character: There is no ™ in font cmr10!
 
 ] ("Project Proposal.aux") ) 
 Here is how much of TeX's memory you used:
- 4393 strings out of 493334
- 64263 string characters out of 3136663
+ 4390 strings out of 493334
+ 64225 string characters out of 3136663
  133926 words of memory out of 3000000
  7876 multiletter control sequences out of 15000+200000
  4891 words of font info for 18 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 40i,4n,38p,628b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 40i,4n,38p,917b,142s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
 sfonts/cm/cmti10.pfb>
-Output written on "Project Proposal.pdf" (2 pages, 60373 bytes).
+Output written on "Project Proposal.pdf" (2 pages, 60944 bytes).
 PDF statistics:
  21 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

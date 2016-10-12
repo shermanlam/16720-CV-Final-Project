@@ -1,11 +1,7 @@
 \section{Project Overview}
 
-3D scene reconstruction is useful in robotics for understanding a robot's environment can aid in navigation through this environment. One typical approach is to use simultaneous localization and mapping (SLAM) to create a map from laser scanners, inertial measurement units, and GPS. However, these devices require specialized hardware to interface and control. \\
+3D scene reconstruction is useful in robotics for understanding a robot's environment can aid in navigation through this environment. One typical approach is to use a combination of a GPS, laser scanners, and inertial measurement units to generate a map of the environment. However, this requires extensive, expensive, and specialized hardware. We would like to reconstruct a scene using video recorded from a standard cell phone camera. \\
 
-The goal of this project is to reconstruct 3D scene using video from a standard smart phone camera. Newcombe and Davison present an algorithm that efficiently does by tracking keypoints in sequential frames of the video, predicting camera poses using structure from motion (SFM), and correcting these camera poses using optical flow. Using these poses, it fits a 3D model of the world to sequential frames of the video \citep{newcombe2010live}. This builds upon the work of \citep{davison2003real}, \citep{klein2007parallel}, and \citep{pollefeys2008detailed}.
+The goal of this project is to reconstruct a 3D scene using video recorded from a standard cell phone camera. This project will attempt to recreate the work of Newcombe and Davison (\citep{newcombe2010live}). They present an algorithm that efficiently generates a dense model of a camera scene. It leverages a structure from motion algorithm called ``Parallel Tracking and Mapping'' (PTAM) to extract a high density of keypoints from each frame of the video feed. Their algorithm uses these points to first construct a low resolution model of the environment. Using groups of camera views with overlapping surface visibility, the model coarse model is refined to yield a dense depth map. Once this depth map is created for various scenes in the environment, the individual depth maps are stitched together to create a 3D map of the entire environment. \\
 
-\citep{kuhl2006monocular}
-\citep{magree2014monocular}
-\citep{geiger2011stereoscan}
-\citep{mclauchlan2000batch}
-\citep{davison2007monoslam}
+Other papers that address similar problems and which we may refer to include \citep{newcombe2010live}, \citep{davison2003real}, \citep{klein2007parallel}, \citep{pollefeys2008detailed}, \citep{kuhl2006monocular}, \citep{magree2014monocular}, \citep{geiger2011stereoscan}, \citep{mclauchlan2000batch}, and \citep{davison2007monoslam}.
