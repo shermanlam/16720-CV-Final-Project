@@ -6,6 +6,12 @@ Andrew~J Davison.
 \newblock In {\em Computer Vision, 2003. Proceedings. Ninth IEEE International
   Conference on}, pages 1403--1410. IEEE, 2003.
 
+\bibitem{davison2007monoslam}
+Andrew~J Davison, Ian~D Reid, Nicholas~D Molton, and Olivier Stasse.
+\newblock Monoslam: Real-time single camera slam.
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  29(6):1052--1067, 2007.
+
 \bibitem{geiger2011stereoscan}
 Andreas Geiger, Julius Ziegler, and Christoph Stiller.
 \newblock Stereoscan: Dense 3d reconstruction in real-time.
