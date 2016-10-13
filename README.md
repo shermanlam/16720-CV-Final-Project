@@ -3,12 +3,10 @@
 
 This repository outlines Logan, Jack, and Sherman's journey to map the world with a single camera. Success TBD.
 
-##TODO List
-### Project Proposal
-- Finish writing overview
-- Write timeline
+##TODO List (Feel free to add / remove)
 - Read main paper ("Live Dense Reconstruction with a Single Moving Camera") in detail.
-- Skim other papers for useful information
+- Skim other papers for useful relevant info.
+
 
 
 
