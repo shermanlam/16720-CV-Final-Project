@@ -6,6 +6,7 @@ This repository outlines Logan, Jack, and Sherman's journey to map the world wit
 ##TODO List (Feel free to add / remove)
 - Read main paper ("Live Dense Reconstruction with a Single Moving Camera") in detail.
 - Skim other papers for useful relevant info.
+- This is a test
 
 
 
